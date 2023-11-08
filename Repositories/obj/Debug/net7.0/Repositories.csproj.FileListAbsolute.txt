@@ -1,0 +1,17 @@
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\DotNetLearn\Repositories\bin\Debug\net7.0\Repositories.deps.json
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\DotNetLearn\Repositories\bin\Debug\net7.0\Repositories.runtimeconfig.json
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\DotNetLearn\Repositories\bin\Debug\net7.0\Repositories.dll
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\DotNetLearn\Repositories\bin\Debug\net7.0\Repositories.pdb
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\DotNetLearn\Repositories\bin\Debug\net7.0\Services.dll
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\DotNetLearn\Repositories\bin\Debug\net7.0\Services.pdb
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\DotNetLearn\Repositories\obj\Debug\net7.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\DotNetLearn\Repositories\obj\Debug\net7.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\DotNetLearn\Repositories\obj\Debug\net7.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\DotNetLearn\Repositories\obj\Debug\net7.0\Repositories.AssemblyInfo.cs
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\DotNetLearn\Repositories\obj\Debug\net7.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\DotNetLearn\Repositories\obj\Debug\net7.0\Repositories.csproj.CopyComplete
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\DotNetLearn\Repositories\obj\Debug\net7.0\Repositories.dll
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\DotNetLearn\Repositories\obj\Debug\net7.0\refint\Repositories.dll
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\DotNetLearn\Repositories\obj\Debug\net7.0\Repositories.pdb
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\DotNetLearn\Repositories\obj\Debug\net7.0\Repositories.genruntimeconfig.cache
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\DotNetLearn\Repositories\obj\Debug\net7.0\ref\Repositories.dll
