@@ -1,5 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Repositories.Migrations;
+﻿using Core.Entities;
+using Microsoft.EntityFrameworkCore;
+
 
 namespace Repositories;
 

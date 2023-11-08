@@ -10,3 +10,15 @@ C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\DotNetLearn\Services\obj\D
 C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\DotNetLearn\Services\obj\Debug\net7.0\refint\Services.dll
 C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\DotNetLearn\Services\obj\Debug\net7.0\Services.pdb
 C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\DotNetLearn\Services\obj\Debug\net7.0\ref\Services.dll
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\FineManagementKAZ\Services\bin\Debug\net7.0\Services.deps.json
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\FineManagementKAZ\Services\bin\Debug\net7.0\Services.dll
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\FineManagementKAZ\Services\bin\Debug\net7.0\Services.pdb
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\FineManagementKAZ\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\FineManagementKAZ\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\FineManagementKAZ\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\FineManagementKAZ\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\FineManagementKAZ\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\FineManagementKAZ\Services\obj\Debug\net7.0\Services.dll
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\FineManagementKAZ\Services\obj\Debug\net7.0\refint\Services.dll
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\FineManagementKAZ\Services\obj\Debug\net7.0\Services.pdb
+C:\Users\saikat\Desktop\Projects\Personal\DotnetLearn\FineManagementKAZ\Services\obj\Debug\net7.0\ref\Services.dll
